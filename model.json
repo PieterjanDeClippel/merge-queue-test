@@ -2,5 +2,8 @@
     "Car": {
         "ContextProperty": "Cars"
     },
-    "ModelHash": "6E9QOoqHsNPZQEMO7Put"
+    "Employee": {
+        "ContextProperty": "Employees"
+    },
+    "ModelHash": "QrT1ES8a1RMELUUNVTiW"
 }
