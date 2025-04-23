@@ -2,5 +2,8 @@
     "Car": {
         "ContextProperty": "Cars"
     },
-    "ModelHash": "6E9QOoqHsNPZQEMO7Put"
+    "LeasingFirm": {
+        "ContextProperty": "LeasingFirms"
+    },
+    "ModelHash": "bJgyFQZriHGlxGtcRVjh"
 }
